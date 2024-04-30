@@ -20,7 +20,7 @@ Follow these steps to get started with your Next.js project:
 1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
 
     ```bash
-  https://github.com/alok-mishra143/Nextjs_starter.git
+    https://github.com/alok-mishra143/Nextjs_starter.git
     ```
 
 2. **Install Dependencies**: Navigate into the project directory and install the necessary dependencies using `npm install` or `yarn`.
